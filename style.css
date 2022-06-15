@@ -1,0 +1,24 @@
+body{
+	color:#ffffff;
+	font-family:courier new;
+    background-size: 100%;
+}
+#intro{
+	color:#6FB2EA;
+}
+#intro1{
+	color:#756FEA;
+}
+#intro2{
+	color:#6FEA80;
+}
+
+h1{
+	color:#D3FBFF;
+	font-family:gothambold;
+	font-size:40px;
+}
+h2{
+	color:#D3FBFF; 
+	font-family:media gothic;
+}
